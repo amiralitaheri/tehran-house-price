@@ -2,11 +2,11 @@
 
 ## What is this?
 This is an scrapper that collects Tehran house prices from [divar.ir](https://divar.ir).
-The sample output is in `/data/21-2-12/output.json`.
+You can download the data from https://www.kaggle.com/amiralitaheri/tehranrealestateprices.
 
 ## How to run the spider?
 1. Clone the repository.  
-``git clone ``  
+``git clone https://github.com/amiralitaheri/tehran-house-price.git``  
 2. Go to project directory  
 ``cd tehran-house-price``  
 3. Install requirements  
@@ -16,7 +16,7 @@ The sample output is in `/data/21-2-12/output.json`.
 Depending on your network connection it may take 3 to 6 hours.
 
 ## What can I do with this data?
-The sample data is in `/data/21-2-12/output.json`.
+You can download the crawled data from https://www.kaggle.com/amiralitaheri/tehranrealestateprices  
 I have created two notebooks that gives yo a place to start.
 1. `data-statistics.ipynb`:  
 Goes over the dataset and extract some basic statistic.
